@@ -2,7 +2,6 @@ package Users;
 
 import api.CreateUserApi;
 import api.models.UserModel;
-import io.restassured.module.jsv.JsonSchemaValidator;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import java.util.ArrayList;
